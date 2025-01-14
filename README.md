@@ -82,5 +82,4 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buat **Pull Request** ata
 ---
 
 Dikembangkan dengan ❤️ oleh **Fajar Julyana**
-```
 
